@@ -1,4 +1,3 @@
-# Python-Projects
 # 🐍 Python Projects Repository
 
 Welcome to my **Python Projects** repository! 🚀  
@@ -10,33 +9,12 @@ Each project is organized in its own folder with source code and a detailed READ
 
 ## 📂 Projects List
 
-### 🔢 Number Guessing Game
-📁 Folder: `NUMBER GUESSING GAME`  
-
-A simple Python console game where the player guesses a randomly generated number between 1 and 10.
-
-**Concepts used:**
-- while loop
-- if-elif-else
-- random module
-- user input
-
+🔢 **Number Guessing Game – Python Console Project**  
+A simple game where the player guesses a randomly generated number between 1 and 10.  
 👉 [View Project](./NUMBER%20GUESSING%20GAME)
 
----
-
-### ✊✋✌ Rock Paper Scissors
-📁 Folder: `Rock Paper Scissors`  
-
-A classic Rock Paper Scissors game where the player competes against the computer.
-
-**Concepts used:**
-- while loop
-- if-elif-else
-- random module
-- lists
-- user input
-
+✊✋✌ **Rock Paper Scissors – Python Console Project**  
+A classic game where the player competes against the computer using rock, paper, or scissors.  
 👉 [View Project](./Rock%20Paper%20Scissors)
 
 ---
@@ -69,6 +47,12 @@ A classic Rock Paper Scissors game where the player competes against the compute
 ## 🧑‍💻 Author
 **Indunil**  
 Python Learner | Aspiring AI Engineer 🤖
+
+---
+
+## 📌 Quick Project Links
+🔢 [Number Guessing Game – Python Console Project](./NUMBER%20GUESSING%20GAME)  
+✊✋✌ [Rock Paper Scissors – Python Console Project](./Rock%20Paper%20Scissors)
 
 ---
 
