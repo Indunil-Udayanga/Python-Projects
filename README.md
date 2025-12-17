@@ -40,6 +40,24 @@ A classic Rock Paper Scissors game where the player competes against the compute
 
 ---
 
+### 🎲 Dice Rolling Game
+📁 Folder: `Dice_Rolling_Game`  
+
+A Python console game that simulates rolling dice.  
+The program displays each die using ASCII art and shows the total sum.
+
+**Concepts used:**
+- random module
+- for loops
+- lists
+- dictionaries
+- user input
+- string formatting
+
+👉 [View Project](./Dice_Rolling_Game)
+
+---
+
 ## 🎯 Purpose of This Repository
 - Practice Python fundamentals
 - Build logical thinking
