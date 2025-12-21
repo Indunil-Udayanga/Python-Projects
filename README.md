@@ -20,7 +20,7 @@ A simple Python console game where the player guesses a randomly generated numbe
 - random module
 - user input
 
-👉 [View Project](./Number_Guessing_Game)
+👉 [View Project](./NUMBER GUESSING GAME)
 
 ---
 
