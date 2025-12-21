@@ -10,7 +10,7 @@ Each project is organized in its own folder with source code and a detailed READ
 ## 📂 Projects List
 
 ### 🔢 Number Guessing Game
-📁 Folder: `Number Guessing Game`  
+📁 Folder: `NUMBER GUESSING GAME`  
 
 A simple Python console game where the player guesses a randomly generated number between 1 and 10.
 
