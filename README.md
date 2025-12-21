@@ -10,7 +10,7 @@ Each project is organized in its own folder with source code and a detailed READ
 ## 📂 Projects List
 
 ### 🔢 Number Guessing Game
-📁 Folder: `Number_Guessing_Game`  
+📁 Folder: `Number Guessing Game`  
 
 A simple Python console game where the player guesses a randomly generated number between 1 and 10.
 
@@ -25,7 +25,7 @@ A simple Python console game where the player guesses a randomly generated numbe
 ---
 
 ### ✊✋✌ Rock Paper Scissors
-📁 Folder: `Rock_Paper_Scissors`  
+📁 Folder: `Rock Paper Scissors`  
 
 A classic Rock Paper Scissors game where the player competes against the computer.
 
@@ -41,7 +41,7 @@ A classic Rock Paper Scissors game where the player competes against the compute
 ---
 
 ### 🎲 Dice Rolling Game
-📁 Folder: `Dice_Rolling_Game`  
+📁 Folder: `Dice Rolling Game`  
 
 A Python console game that simulates rolling dice.  
 The program displays each die using ASCII art and shows the total sum.
