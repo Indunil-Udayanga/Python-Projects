@@ -80,7 +80,7 @@ It supports full **CRUD operations** (Create, Read, Update, Delete) for managing
 - conditional statements
 - match-case (Python 3.10+)
 
-👉 [View Project](./Student_Management_System)
+👉 [View Project](./Student_Managment_System)
 
 ---
 
