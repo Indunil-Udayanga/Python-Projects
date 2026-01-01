@@ -1,16 +1,16 @@
 # 🐍 Python Projects Repository
 
 Welcome to my **Python Projects** repository! 🚀  
-This repository contains beginner-friendly Python projects that I built to practice core programming concepts and improve my problem-solving skills.
+This repository contains **beginner-friendly Python projects** that I built to practice core programming concepts and improve my **problem-solving skills**.
 
-Each project is organized in its own folder with source code and a detailed README file.
+Each project is organized in its own folder with **source code** and a **dedicated README file**.
 
 ---
 
 ## 📂 Projects List
 
 ### 🔢 Number Guessing Game
-📁 Folder: `NUMBER GUESSING GAME`  
+📁 Folder: `Number_Guessing_Game`
 
 A simple Python console game where the player guesses a randomly generated number between 1 and 10.
 
@@ -25,7 +25,7 @@ A simple Python console game where the player guesses a randomly generated numbe
 ---
 
 ### ✊✋✌ Rock Paper Scissors
-📁 Folder: `Rock Paper Scissors`  
+📁 Folder: `Rock_Paper_Scissors`
 
 A classic Rock Paper Scissors game where the player competes against the computer.
 
@@ -41,10 +41,10 @@ A classic Rock Paper Scissors game where the player competes against the compute
 ---
 
 ### 🎲 Dice Rolling Game
-📁 Folder: `Dice Rolling Game`  
+📁 Folder: `Dice_Rolling_Game`
 
 A Python console game that simulates rolling dice.  
-The program displays each die using ASCII art and shows the total sum.
+The program displays dice using **ASCII art** and calculates the total sum.
 
 **Concepts used:**
 - random module
@@ -58,11 +58,38 @@ The program displays each die using ASCII art and shows the total sum.
 
 ---
 
+### 🎓 Student Management System
+📁 Folder: `Student_Management_System`
+
+A **console-based Student Management System** built using Python.  
+It supports full **CRUD operations** (Create, Read, Update, Delete) for managing student records.
+
+**Features:**
+- Add new students
+- View all students
+- Search student by ID
+- Update student details
+- Delete student records
+- Menu-driven interface
+
+**Concepts used:**
+- lists
+- dictionaries
+- functions
+- loops
+- conditional statements
+- match-case (Python 3.10+)
+
+👉 [View Project](./Student_Management_System)
+
+---
+
 ## 🎯 Purpose of This Repository
 - Practice Python fundamentals
-- Build logical thinking
-- Prepare for advanced topics like:
-  - Object-Oriented Programming
+- Improve logical and analytical thinking
+- Build confidence with real mini-projects
+- Prepare for advanced topics such as:
+  - Object-Oriented Programming (OOP)
   - Data Structures
   - Machine Learning
   - Artificial Intelligence
@@ -78,15 +105,15 @@ The program displays each die using ASCII art and shows the total sum.
 ## 🚀 Future Plans
 - Add more Python mini projects
 - Improve existing projects
-- Add intermediate-level applications
-- Transition into AI & Machine Learning projects
+- Build intermediate-level applications
+- Transition into **AI & Machine Learning** projects
 
 ---
 
 ## 🧑‍💻 Author
-**Indunil**  
+**Indunil Udayanga**  
 Python Learner | Aspiring AI Engineer 🤖
 
 ---
 
-⭐ If you like this repository, consider giving it a star!
+⭐ If you like this repository, consider giving it a **star**!
